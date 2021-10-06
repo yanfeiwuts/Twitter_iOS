@@ -1,4 +1,4 @@
-# Project 3 - Twitter Part1 
+# Twitter Part1 
 
 It is a basic twitter app to read your tweets.
 
