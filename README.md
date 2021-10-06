@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/JMX4S82D0DgyGpmsdG/giphy.gif' width= 250> <br>
+<img src='https://media.giphy.com/media/gSJAT1mZAnXm1I76LO/giphy.gif' width= 250> <br>
 
