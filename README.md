@@ -36,10 +36,6 @@ The following **required** functionality is completed:
 - [x] User stays logged in across restarts. 
 - [x] User can view tweets with the user profile picture, username, and tweet text.
 
-The following **bonus** features are implemented:
-
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
